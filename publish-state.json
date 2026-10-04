@@ -12,6 +12,13 @@
       "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
       "hash": "2b7a4f00b2caab12f501695b207c399ed56434f47e8cafa12b6982893929acd5",
       "assets": []
+    },
+    "bayal4vs56dz": {
+      "title": "Google 账号 403 扫码短信验证处理尝试",
+      "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
+      "hash": "4fbb953a3b27ea0a94dec81a3637aae07b3cb8106a95e80d7f5dd458bd08a188",
+      "assets": [],
+      "path": "notes/444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控/bayal4vs56dz.md"
     }
   },
   "intents": {
@@ -24,12 +31,18 @@
       "enabled": true,
       "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
       "hash": "543658e36fb1b33b80d3cae31e5dac45083884b883514c72b2cadde5d659f497"
+    },
+    "bayal4vs56dz": {
+      "enabled": true,
+      "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
+      "hash": "543658e36fb1b33b80d3cae31e5dac45083884b883514c72b2cadde5d659f497"
     }
   },
   "files": [
     ".nojekyll",
     "catalog.json",
     "index.html",
+    "notes/444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控/bayal4vs56dz.md",
     "notes/6soqskotd6pu.md",
     "notes/h0kkav9klouh.md",
     "publish-state.json",

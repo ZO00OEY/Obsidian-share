@@ -1,12 +1,6 @@
 {
   "version": 1,
   "notes": {
-    "6soqskotd6pu": {
-      "title": "未命名 1",
-      "category": "/",
-      "hash": "fc0716b8349de717c179350d7353278d6345035c407c6b21cf0777d456f30db0",
-      "assets": []
-    },
     "h0kkav9klouh": {
       "title": "机房IP纯净度与Claude风控",
       "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
@@ -23,9 +17,9 @@
   },
   "intents": {
     "6soqskotd6pu": {
-      "enabled": true,
+      "enabled": false,
       "category": "/",
-      "hash": "771524e5e27456f544c4c3a434c04a1905fa4a5fffb001a3394f16765520817e"
+      "hash": "aed3fd988f2dd3042a9ce95942e4595bc242702164af384fdb3a8100420874a3"
     },
     "h0kkav9klouh": {
       "enabled": true,
@@ -43,11 +37,8 @@
     "catalog.json",
     "index.html",
     "notes/444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控/bayal4vs56dz.md",
-    "notes/6soqskotd6pu.md",
     "notes/h0kkav9klouh.md",
     "publish-state.json",
-    "reader/app.css",
-    "reader/app.js",
     "reader/appearance.css",
     "reader/licenses.txt"
   ]

@@ -15,23 +15,6 @@
       "path": "notes/444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控/bayal4vs56dz.md"
     }
   },
-  "intents": {
-    "6soqskotd6pu": {
-      "enabled": false,
-      "category": "/",
-      "hash": "aed3fd988f2dd3042a9ce95942e4595bc242702164af384fdb3a8100420874a3"
-    },
-    "h0kkav9klouh": {
-      "enabled": true,
-      "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
-      "hash": "543658e36fb1b33b80d3cae31e5dac45083884b883514c72b2cadde5d659f497"
-    },
-    "bayal4vs56dz": {
-      "enabled": true,
-      "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
-      "hash": "543658e36fb1b33b80d3cae31e5dac45083884b883514c72b2cadde5d659f497"
-    }
-  },
   "files": [
     ".nojekyll",
     "catalog.json",

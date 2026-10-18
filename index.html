@@ -133,7 +133,7 @@ main code:not(pre code) { background:color-mix(in srgb,var(--share-text) 6%,tran
 .simple-mermaid-toolbar button { border:1px solid var(--share-line); border-radius:4px; background:var(--share-bg); color:var(--share-text); padding:4px 8px; cursor:pointer; font-size:12px; min-height:30px }
 .simple-mermaid-viewport { overflow:auto; max-height:70vh }
 main .simple-mermaid-frame .mermaid { margin:0; padding:0; background:transparent; overflow:visible }
-.simple-mermaid-frame svg { display:block; width:100%; max-width:none; height:auto; margin:auto }
+.simple-mermaid-frame svg { display:block; width:100%; max-width:none!important; height:auto; margin:auto }
 .simple-mermaid-frame.is-fullscreen { position:fixed; inset:16px; z-index:1000; margin:0; display:flex; flex-direction:column }
 .simple-mermaid-frame.is-fullscreen .simple-mermaid-viewport { flex:1; max-height:none }
 @media(prefers-color-scheme:dark){.share-tag{background:#1d694b;color:#fff}main h3{color:#80b4ff}}

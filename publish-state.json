@@ -1,6 +1,13 @@
 {
   "version": 1,
   "notes": {
+    "4hpcbtunnadp": {
+      "title": "03 辟地者号的求职市场",
+      "category": "334 写作/002 游戏日志/天外世界",
+      "hash": "f14d2bba5449a5f451bc1697883ae441cd675b433889c1b7e8631ade877f60c6",
+      "assets": [],
+      "path": "notes/334 写作/002 游戏日志/天外世界/4hpcbtunnadp.md"
+    },
     "bayal4vs56dz": {
       "title": "Google 账号 403 扫码短信验证处理尝试",
       "category": "444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控",
@@ -19,6 +26,7 @@
     ".nojekyll",
     "catalog.json",
     "index.html",
+    "notes/334 写作/002 游戏日志/天外世界/4hpcbtunnadp.md",
     "notes/444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控/bayal4vs56dz.md",
     "notes/h0kkav9klouh.md",
     "publish-state.json",

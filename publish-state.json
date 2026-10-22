@@ -85,6 +85,18 @@
       "assets": [],
       "path": "notes/334 写作/002 游戏日志/天外世界/lx25j6otcxn9.md"
     },
+    "s7o0ted0t2pn": {
+      "title": "飞鸟蒲公英还原教程 - Gemini 交互 Prompt 与项目经验",
+      "category": "443 智能牛马集中营/0100 综合方法与工具/030 Vibe Coding与前端特效",
+      "hash": "78ae8f8ffb43cf2e071e2e064b159f3ba3a721f7a3be900a7c740f6979a2d042",
+      "assets": [
+        "assets/0a57fdd5b0dd95ba86e58b6035787a5bb6ed7e80d115d3bc30a8a53357acb3ac.png",
+        "assets/a6674d54bec30be92b87e93ef3d07732a33cce36137327cc8ad4ae5b261d8a66.png",
+        "assets/aa21ca4eb80840b13dd20ff00e69f5aad647fb81541e376ab399608d8bdcec80.png",
+        "assets/ce826f90e1cb9da0fe4a3c2baa5390a627526074db38f57fcad36102eada4568.png"
+      ],
+      "path": "notes/443 智能牛马集中营/0100 综合方法与工具/030 Vibe Coding与前端特效/s7o0ted0t2pn.md"
+    },
     "svcsnivt3ob4": {
       "title": "11 给同伴配枪比给自己配枪还难",
       "category": "334 写作/002 游戏日志/天外世界",
@@ -129,6 +141,10 @@
   },
   "files": [
     ".nojekyll",
+    "assets/0a57fdd5b0dd95ba86e58b6035787a5bb6ed7e80d115d3bc30a8a53357acb3ac.png",
+    "assets/a6674d54bec30be92b87e93ef3d07732a33cce36137327cc8ad4ae5b261d8a66.png",
+    "assets/aa21ca4eb80840b13dd20ff00e69f5aad647fb81541e376ab399608d8bdcec80.png",
+    "assets/ce826f90e1cb9da0fe4a3c2baa5390a627526074db38f57fcad36102eada4568.png",
     "catalog.json",
     "index.html",
     "notes/334 写作/002 游戏日志/天外世界/2kopq1idyyhv.md",
@@ -147,6 +163,7 @@
     "notes/334 写作/002 游戏日志/天外世界/trdvknnrzzzb.md",
     "notes/334 写作/002 游戏日志/天外世界/wu63648rdi5m.md",
     "notes/334 写作/002 游戏日志/天外世界/ytytg10r54h7.md",
+    "notes/443 智能牛马集中营/0100 综合方法与工具/030 Vibe Coding与前端特效/s7o0ted0t2pn.md",
     "notes/444 人工智障管理处/001 AI渠道与账号/010 账号与支付/环境与风控/bayal4vs56dz.md",
     "notes/h0kkav9klouh.md",
     "publish-state.json",

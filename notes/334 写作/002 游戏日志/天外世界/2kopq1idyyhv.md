@@ -13,7 +13,7 @@
 4. [04 格拉蒂丝的线索比枪还难找](#/notes/ivhkqmt73glx)
 5. [05 科学武器与玫瑰镇旧账](#/notes/drptqrkcb17w)
 6. [06 危险航线，欢迎来到君王星](#/notes/dcnb14hvynhg)
-7. [07 瀑布镇的房子与失踪的灵鼠](#/notes/wu63648rdi5m)
+7. [07 瀑布镇的房子与失踪的鳞鼠](#/notes/wu63648rdi5m)
 8. [08 医疗兵不在他的遗体旁边](#/notes/ytytg10r54h7)
 9. [09 四个人守山，清点时少了谁](#/notes/g26oeixc0dqq)
 10. [10 电台里的三种未来](#/notes/trdvknnrzzzb)
@@ -30,7 +30,7 @@
 | --- | --- | --- |
 | 水岸镇与起步 | “言胜于行”成就；回忆电力去向、里德与阿德莱德；学习潜行、长枪与慢速时间 | 成就可反推电留水岸镇、里德留任；早期现场细节作回忆，不虚构对话 |
 | 辟地者号与玫瑰镇 | 缺钱、找悬赏、格拉蒂丝情报、科学武器、奥森·肖图纸 | 将明确到过的地点写成数则；图纸最终归属不写死 |
-| 君王星 | 星光湾、瀑布镇、灵鼠导航、印刷厂医疗兵遗体缺失、C3、广播与坠船、和谈失败 | 故障感与寻找过程为亲历；无法证明的任务结果保持悬念 |
+| 君王星 | 星光湾、瀑布镇、鳞鼠运药与粪便、印刷厂医疗兵遗体缺失、C3、广播与坠船、和谈失败 | 故障感与寻找过程为亲历；无法证明的任务结果保持悬念 |
 | 拜占庭与终局 | 莎莉丝特服装、亚光速与博士、二甲基亚砜只取一部分、结局无翻译 | 不代填博士、索菲娅及所有队友的最终生死 |
 
 ## 待日后校对的空白
@@ -46,3 +46,4 @@
 - [“言胜于行”成就条件](https://www.trueachievements.com/a286521/mightier-than-the-sword-achievement)
 - [水岸镇不同结局](https://theouterworlds.fandom.com/wiki/The_Outer_Worlds_endings)
 - [“城市与星光”的两种药剂抽取量](https://www.gamerguides.com/the-outer-worlds/guide/walkthrough/main-quests/the-city-and-the-stars/)
+- [“鳞鼠之王”运药与粪便环节](https://www.gamerguides.com/the-outer-worlds/guide/walkthrough/tasks/spratkings/)

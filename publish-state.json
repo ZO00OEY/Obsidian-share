@@ -4,7 +4,7 @@
     "2kopq1idyyhv": {
       "title": "00 航行日志目录与取材说明",
       "category": "334 写作/002 游戏日志/天外世界",
-      "hash": "759c8c88aea288afc356d6f93d9e82f7c380dab533c8a4dfbfa806806c6ea6f3",
+      "hash": "bc8dfc935ac82fecd792819ab67d6037f00ba7f63a286d7d80b9c2180bfb605f",
       "assets": [],
       "path": "notes/334 写作/002 游戏日志/天外世界/2kopq1idyyhv.md"
     },
@@ -32,7 +32,7 @@
     "81syxquu8lob": {
       "title": "00 事件线索台账",
       "category": "334 写作/002 游戏日志/天外世界",
-      "hash": "b7eaba18bd4c078dd0b29d82f923568bd3f0ad2305757889374b931871064810",
+      "hash": "88a9363cdb37144377fbbaec8f52a0e48d6f03c1ab806a012adb669c7d3958e4",
       "assets": [],
       "path": "notes/334 写作/002 游戏日志/天外世界/81syxquu8lob.md"
     },
@@ -63,6 +63,13 @@
       "hash": "765fb516d039374fb154900c53ade701df8e1c269f2a2b28fe9d65377f11895d",
       "assets": [],
       "path": "notes/334 写作/002 游戏日志/天外世界/g26oeixc0dqq.md"
+    },
+    "g5oc75ib5a92": {
+      "title": "越南军警经商讨论：观点摘录、争论进程与延伸分析",
+      "category": "001 网事杂谈/101 文化与历史杂谈",
+      "hash": "0de070bf2e2c9385238b5528430b1fe5845dd10de0191358ef5049dbcd637051",
+      "assets": [],
+      "path": "notes/001 网事杂谈/101 文化与历史杂谈/g5oc75ib5a92.md"
     },
     "ivhkqmt73glx": {
       "title": "04 格拉蒂丝的线索比枪还难找",
@@ -109,7 +116,7 @@
     "ytytg10r54h7": {
       "title": "08 医疗兵不在他的遗体旁边",
       "category": "334 写作/002 游戏日志/天外世界",
-      "hash": "f40d782fa1214176e860a1fe85192b585475579ce73cc9a5228f576c2d81e785",
+      "hash": "7f4a2f05d36a221f7d417500f954fe67e161f1099769a92c27fcfbacb3cff739",
       "assets": [],
       "path": "notes/334 写作/002 游戏日志/天外世界/ytytg10r54h7.md"
     }
@@ -118,6 +125,7 @@
     ".nojekyll",
     "catalog.json",
     "index.html",
+    "notes/001 网事杂谈/101 文化与历史杂谈/g5oc75ib5a92.md",
     "notes/334 写作/002 游戏日志/天外世界/2kopq1idyyhv.md",
     "notes/334 写作/002 游戏日志/天外世界/4dz8jynuz8ar.md",
     "notes/334 写作/002 游戏日志/天外世界/4hpcbtunnadp.md",

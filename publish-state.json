@@ -4,12 +4,19 @@
     "398ntsrk1cm2": {
       "title": "Codex 基础安装教程",
       "category": "443 智能牛马集中营/0200 Codex/安装入门流程",
-      "hash": "162fb494ca877a9b52e74dc86a69eb7c2094848052a9aae03e0b1a3f243c894e",
+      "hash": "1985688a45685e0bb8f7105d5a378baa87c603b3e4aeecfa7a24f85a6eeb3177",
       "assets": [
         "assets/1f84af737004ce703cfaa459736edd7622038d6eb776fdac1db50323c18399d8.png",
         "assets/1f8d67fdeec803da6f8293725885dee9668c64efbcd6c349ed29548df83d2e1e.png"
       ],
       "path": "notes/443 智能牛马集中营/0200 Codex/安装入门流程/398ntsrk1cm2.md"
+    },
+    "9i6zs2rlfthb": {
+      "title": "Codex Skills 推荐",
+      "category": "443 智能牛马集中营/0200 Codex/安装入门流程",
+      "hash": "059f4991b70168b2712af3d63b1391c505dfabb721e0377edae6fea1d036b37a",
+      "assets": [],
+      "path": "notes/443 智能牛马集中营/0200 Codex/安装入门流程/9i6zs2rlfthb.md"
     },
     "g5oc75ib5a92": {
       "title": "越南军警经商讨论：观点摘录、争论进程与延伸分析",
@@ -27,6 +34,7 @@
     "index.html",
     "notes/001 网事杂谈/101 文化与历史杂谈/g5oc75ib5a92.md",
     "notes/443 智能牛马集中营/0200 Codex/安装入门流程/398ntsrk1cm2.md",
+    "notes/443 智能牛马集中营/0200 Codex/安装入门流程/9i6zs2rlfthb.md",
     "publish-state.json",
     "reader/appearance.css",
     "reader/licenses.txt"

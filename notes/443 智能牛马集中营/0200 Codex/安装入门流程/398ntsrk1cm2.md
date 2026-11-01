@@ -114,7 +114,7 @@
 
 如果需要手动开启命令行：进入 **Obsidian 设置 → 常规 → 命令行界面**，开启并按提示完成注册，再让 AI 继续验证，安装 Skills 不会自动开启这个开关。
 
-参考：[Obsidian 官方 CLI 说明](https://help.obsidian.md/cli)。相关技能介绍见 Codex Skills 推荐（未公开）。
+参考：[Obsidian 官方 CLI 说明](https://help.obsidian.md/cli)。相关技能介绍见 [Codex Skills 推荐](#/notes/9i6zs2rlfthb)。
 
 ### 4. 聊天分支与工作树怎么选
 

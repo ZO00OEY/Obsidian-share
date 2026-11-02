@@ -1,6 +1,4 @@
 :root{--share-image-max-height:450px}
-:root{--share-bold:#e60f61}
-:root{--share-italic:#e60f61}
 .callout[data-callout="note"]{--callout-color:rgb(8, 109, 221)}
 .callout[data-callout="abstract"]{--callout-color:rgb(45, 183, 181)}
 .callout[data-callout="summary"]{--callout-color:rgb(45, 183, 181)}

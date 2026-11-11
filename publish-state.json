@@ -4,20 +4,30 @@
     "398ntsrk1cm2": {
       "title": "Codex 基础安装教程",
       "category": "443 智能牛马集中营/0200 Codex/安装入门流程",
-      "hash": "162fb494ca877a9b52e74dc86a69eb7c2094848052a9aae03e0b1a3f243c894e",
+      "hash": "a4080dec42fe8133057452c432f679404d0d1f8f114718f654ed051c85e74864",
       "assets": [
         "assets/1f84af737004ce703cfaa459736edd7622038d6eb776fdac1db50323c18399d8.png",
-        "assets/1f8d67fdeec803da6f8293725885dee9668c64efbcd6c349ed29548df83d2e1e.png"
+        "assets/1f8d67fdeec803da6f8293725885dee9668c64efbcd6c349ed29548df83d2e1e.png",
+        "assets/632a1e7083019b660cdbbae007ccdb094f64143e2b14f50af82c44cf7c3c1697.png"
       ],
       "path": "notes/443 智能牛马集中营/0200 Codex/安装入门流程/398ntsrk1cm2.md"
+    },
+    "4u5csw247va4": {
+      "title": "我在伪人末世摸鱼求生",
+      "category": "002 项目规划",
+      "hash": "4111429f347a01f5970af4aa3dde43529608da0e65b66ed38a91b36ff3e448cd",
+      "assets": [],
+      "path": "notes/002 项目规划/4u5csw247va4.md"
     }
   },
   "files": [
     ".nojekyll",
     "assets/1f84af737004ce703cfaa459736edd7622038d6eb776fdac1db50323c18399d8.png",
     "assets/1f8d67fdeec803da6f8293725885dee9668c64efbcd6c349ed29548df83d2e1e.png",
+    "assets/632a1e7083019b660cdbbae007ccdb094f64143e2b14f50af82c44cf7c3c1697.png",
     "catalog.json",
     "index.html",
+    "notes/002 项目规划/4u5csw247va4.md",
     "notes/443 智能牛马集中营/0200 Codex/安装入门流程/398ntsrk1cm2.md",
     "publish-state.json",
     "reader/appearance.css",
